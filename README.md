@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ELSEFI&label=Profile%20views&color=0CE82B&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=mhmdibz&label=Profile%20views&color=0CE82B&style=flat-square" />
 </p>
 
 ---
@@ -45,32 +45,30 @@ I specialize in designing RESTful APIs, implementing clean architecture principl
 ---
 
 ## 💻 Tech Stack
-
 ### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,typescript,python,cpp,csharp" height="40" />
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,csharp" height="40" />
 </p>
 
 ### Backend & APIs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,expressjs,postman" height="40" />
+  <img src="https://skillicons.dev/icons?i=dotnet,postman,csharp" height="40" />
 </p>
 
 ### Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,mssql" height="40" />
+  <img src="https://skillicons.dev/icons?i=,mysql,sqlserver" height="40" />
 </p>
 
 ### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,html,css,js" height="40" />
+  <img src="https://skillicons.dev/icons?i=js,angular,tailwind,bootstrap,html,css" height="40" />
 </p>
 
 ### DevOps & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,bash,vscode" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" />
 </p>
 
 ---
@@ -78,7 +76,7 @@ I specialize in designing RESTful APIs, implementing clean architecture principl
 ## 🔐 Backend & Security Skills
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="400" alt="Backend Development"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:5C2D91&height=200&section=header&text=.NET%20Developer&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" />
 </div>
 
 Backend Development
@@ -108,13 +106,13 @@ HTML, CSS, Bootstrap, JavaScript – Creating responsive and clean UI (if needed
 ## 📈 Github Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ELSEFI&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ELSEFI&theme=gruvbox&hide_border=true" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mhmdibz&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdibz&theme=gruvbox&hide_border=true" height="200"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELSEFI&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" height="180"/>
-  <img src="https://leetcard.jacoblin.cool/ELSEFI?theme=dark&font=Fira%20Code&ext=activity" height="220"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdibz&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" height="180"/>
+  <img src="https://leetcard.jacoblin.cool/mhmdibz?theme=dark&font=Fira%20Code&ext=activity" height="220"/>
 </div>
 
 ---
@@ -122,11 +120,11 @@ HTML, CSS, Bootstrap, JavaScript – Creating responsive and clean UI (if needed
 ## 🚦 Contribution & Achievements
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ELSEFI&theme=react-dark&hide_border=true" height="200" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhmdibz&theme=react-dark&hide_border=true" height="200" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ELSEFI&theme=discord&column=7&margin-w=15&margin-h=15&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mhmdibz&theme=discord&column=7&margin-w=15&margin-h=15&no-frame=true" />
 </div>
 
 ---
