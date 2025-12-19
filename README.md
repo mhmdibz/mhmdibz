@@ -9,10 +9,6 @@
 
 <br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mhmdibz&label=Profile%20views&color=0CE82B&style=flat-square" />
-</p>
-
 ---
 
 ## 🚀 About Me
