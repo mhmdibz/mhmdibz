@@ -74,11 +74,14 @@ I specialize in designing RESTful APIs, implementing clean architecture principl
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:5C2D91&height=200&section=header&text=.NET%20Developer&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" />
 </div>
 
+
 Backend Development
 
-C# & .NET 9 / ASP.NET Core – Designing scalable, maintainable backend systems
+C# & .NET 10 / ASP.NET Core – Designing scalable, maintainable backend systems
 
-RESTful API Design – Building secure APIs following clean architecture
+MVC / Web API – Building structured and scalable backend applications
+
+RESTful API Design – Creating secure and well-structured APIs following clean architecture principles
 
 Entity Framework Core & LINQ – Efficient data modeling and querying
 
