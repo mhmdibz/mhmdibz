@@ -43,11 +43,8 @@ I specialize in designing RESTful APIs, implementing clean architecture principl
 ## 💻 Tech Stack
 ### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,cpp,csharp" height="40" />
-</p>
-
-### Backend & APIs
-<p align="center">
+<img src="https://skillicons.dev/icons?i=js,python,cs" height="40" />
+ <p align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,postman,csharp" height="40" />
 </p>
 
