@@ -33,8 +33,9 @@ I specialize in designing RESTful APIs, implementing clean architecture principl
 ## 🌐 Find Me Here
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-ibrahim-software/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="mailto:mohamedib.dev@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+<a href="https://www.linkedin.com/in/mohamed-ibrahim-dev-eg/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>  <a href="mailto:mohamedib.dev@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
   <a href="https://www.instagram.com/____mohamedibrahim507/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
 </p>
 
